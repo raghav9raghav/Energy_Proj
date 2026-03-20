@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Sparsh Sopory/energy_project/mlruns/878416038388553335/models/m-298c8a2834474044b0c7f7e0bcc897d2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.10.0
+model_id: m-298c8a2834474044b0c7f7e0bcc897d2
+model_size_bytes: 42436200
+model_uuid: m-298c8a2834474044b0c7f7e0bcc897d2
+prompts: null
+run_id: 934cbbcbfe6c4f1982410508f45225b8
+utc_time_created: '2026-03-10 08:57:31.635587'

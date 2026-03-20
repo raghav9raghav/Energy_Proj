@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sparsh Sopory/energy_project/mlruns/878416038388553335/f5323cc75ed54dd0b44e6df89ffd7dc9/artifacts
+end_time: 1773788093426
+entry_point_name: ''
+experiment_id: '878416038388553335'
+lifecycle_stage: active
+run_id: f5323cc75ed54dd0b44e6df89ffd7dc9
+run_name: resilient-kite-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773788083239
+status: 3
+tags: []
+user_id: Sparsh Sopory

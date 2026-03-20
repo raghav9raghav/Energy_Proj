@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Sparsh Sopory/energy_project/mlruns/878416038388553335/models/m-797e965fc8164db1a1132fca1b4173b4/artifacts
+creation_timestamp: 1773133045678
+experiment_id: '878416038388553335'
+last_updated_timestamp: 1773133049814
+model_id: m-797e965fc8164db1a1132fca1b4173b4
+model_type: null
+name: model
+source_run_id: f6bcfc4c57c14458b5686c20dddd7a90
+status: 2
+status_message: null
